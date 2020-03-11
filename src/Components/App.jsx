@@ -4,7 +4,6 @@ import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
 import VideoItem from './VideoItem';
 
-
 class App extends React.Component {
   render() {
     return (
